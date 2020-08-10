@@ -1,0 +1,14 @@
+# Target labels
+ websocketpp-download
+# Source files and their labels
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/CMakeFiles/websocketpp-download
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/CMakeFiles/websocketpp-download.rule
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/CMakeFiles/websocketpp-download-complete.rule
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-install.rule
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-mkdir.rule
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-download.rule
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-patch.rule
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-configure.rule
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-build.rule
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-test.rule
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-skip-update.rule

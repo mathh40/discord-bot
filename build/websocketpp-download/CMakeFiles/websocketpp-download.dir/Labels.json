@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/CMakeFiles/websocketpp-download"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/CMakeFiles/websocketpp-download.rule"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/CMakeFiles/websocketpp-download-complete.rule"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-install.rule"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-mkdir.rule"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-download.rule"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-patch.rule"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-configure.rule"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-build.rule"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-test.rule"
+		},
+		{
+			"file" : "/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-skip-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"websocketpp-download"
+		],
+		"name" : "websocketpp-download"
+	}
+}

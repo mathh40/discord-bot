@@ -1,0 +1,3 @@
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/CMakeFiles/rebuild_cache.dir
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/CMakeFiles/edit_cache.dir
+/media/nico/9E74DA4674DA2137/cpp/discord-bot/build/websocketpp-download/CMakeFiles/websocketpp-download.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/discord-bot.dir/bot.cpp.o  -o discord-bot  libs/sleepy-discord/sleepy_discord/libsleepy-discord.a lib/libcpr.a /usr/lib/x86_64-linux-gnu/libcurl.so -lssl -lcrypto -pthread 
