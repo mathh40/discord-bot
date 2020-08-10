@@ -1,0 +1,3 @@
+[submodule "sleepy-discord"]
+	path = sleepy-discord
+	url = ../../yourWaifu/sleepy-discord.git
